@@ -1,0 +1,10 @@
+name: coreylab
+output_dir: "."
+navbar:
+  title: "Corey Lab"
+  left: 
+    - text: "Home"
+      href: index.html
+    - text: "Lab Meeting Schedule"
+      href: schej.html
+  
